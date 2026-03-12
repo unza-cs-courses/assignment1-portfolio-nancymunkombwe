@@ -127,16 +127,16 @@ Before submitting, verify:
 
 ## Your Information
 
-**Name:** [Your Name]
-**Student ID:** [Your Student ID]
-**Design Theme:** [Describe your portfolio theme/style]
+**Name:** Nancy Munkombwe
+**Student ID:** 2022029887
+**Design Theme:** Clean and modern responsive portfolio with a minimalist color scheme and card-based layout.
 
 ### CSS Techniques Used
 - [ ] CSS Custom Properties
 - [ ] Flexbox
 - [ ] CSS Grid
 - [ ] Media Queries
-- [ ] Other: _______________
+- [ ] Other:None
 
 ### Challenges & Solutions
 [Describe any challenges you faced and how you solved them]
